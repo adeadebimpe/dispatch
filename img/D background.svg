@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="447px" viewBox="0 0 360 447" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>D background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="62.1037959%" y1="33.805867%" x2="1.11022302e-14%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#8800FE" offset="0%"></stop>
+            <stop stop-color="#A837EB" offset="50.3550607%"></stop>
+            <stop stop-color="#BE5DDD" offset="84.6109041%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile">
+            <g id="D-background" transform="translate(-4.000000, -119.000000)">
+                <path d="M197.100843,64 C369.116124,64 445.80627,186.631429 447.956461,310.697143 C450.106652,437.631429 372.699775,566 197.100843,566 L0,566 L0,64 L197.100843,64 Z" id="D" fill="url(#linearGradient-1)"></path>
+                <path d="M236.828839,94 C337.043099,94 381.721956,165.331429 382.974635,237.497143 C384.227313,311.331429 339.130896,386 236.828839,386 L122,386 L122,94 L236.828839,94 Z" id="D-Copy" fill="url(#linearGradient-1)" opacity="0.73680933"></path>
+                <path d="M172.508968,0 C271.571339,0 315.736647,70.5985714 316.974926,142.022857 C318.213206,215.098571 273.635139,289 172.508968,289 L59,289 L59,0 L172.508968,0 Z" id="D-Copy-3" stroke="url(#linearGradient-1)" stroke-width="3" opacity="0.548629982"></path>
+            </g>
+        </g>
+    </g>
+</svg>
